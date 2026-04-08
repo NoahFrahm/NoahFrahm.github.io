@@ -22,7 +22,7 @@ I am a computer science researcher at The University of North Carolina at Chapel
 # 🔥 News
 - *2026.03*: &nbsp;📄 Prune-Then-Plan accepted to CVPR 2026 Findings!
 - *2025.05*: &nbsp;📄 Released VIN-NBV on arXiv
-- *2024.05*: &nbsp;🎉🎉 Accepted to the PhD program in Computer Science at UNC Chapel Hill!
+- *2024.05*: &nbsp;🎉 Accepted to the PhD program in Computer Science at UNC Chapel Hill!
 - *2024.05*: &nbsp;🎓 Completed Masters of Science in Computer Science at UNC
 - *2024.04*: &nbsp;📄 Monitor Illumination paper accepted to the CVPR 2024 Workshop on Multimedia Forensics!
 - *2023.01*: &nbsp;📚 Started Masters of Science in Computer Science at UNC
