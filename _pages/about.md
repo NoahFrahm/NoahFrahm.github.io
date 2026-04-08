@@ -69,15 +69,15 @@ Jun Myeong Choi, Johnathan Chi-Ho Leung, **Noah Frahm**, Max Christman, Gedas Be
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Education
-- *2020.08 - 2023.12*, Bachelor of Science Computer science, The University of North Carolina.
+- *2024.05 - (present)*, Doctor of philosphy Computer Science, The University of North Carolina
 - *2023.01 - 2024.05*, Masters of Science Computer Science, The University of North Carolina
-- *2024.05 - (now)*, Doctor of philosphy Computer Science, The University of North Carolina
+- *2020.08 - 2023.12*, Bachelor of Science Computer science, The University of North Carolina
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
+# 💻 Internships/work
 - *Summer 2025*, Applied Scientist, EveryPoint
 - *Summer 2024*, Software Engineering Intern, Capital One
 - *Summer 2023*, Software Engineering Intern, Capital One
