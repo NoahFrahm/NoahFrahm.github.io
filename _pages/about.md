@@ -19,13 +19,18 @@ redirect_from:
 
 I am a computer science researcher at The University of North Carolina at Chapel Hill. My research focuses on **embodied agentic systems** and **computer vision**, with a particular emphasis on building intelligent agents that can perceive, reason about, and interact with the physical world. I am interested in how large vision-language models can be leveraged to enable embodied AI agents to perform complex tasks in dynamic environments.
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🔥 News
+- *2026.03*: &nbsp;🎉🎉 Prune-Then-Plan accepted to CVPR 2026 Findings!
+- *2024.05*: &nbsp;🎉🎉 Accepted to the PhD program in Computer Science at UNC Chapel Hill!
+- *2024.05*: &nbsp;🎉🎉 Completed Masters of Science in Computer Science at UNC
+- *2025.05*: &nbsp;🎉🎉 Released VIN-NBV on arXiv
+- *2024.04*: &nbsp;🎉🎉 Monitor Illumination paper accepted to the CVPR 2024 Workshop on Multimedia Forensics!
+- *2023.01*: &nbsp;🎉🎉 Started Masters of Science in Computer Science at UNC!
+- *2023.12*: &nbsp;🎉🎉 Completed Bachelor of Science in Computer Science at UNC
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 Findings</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 Findings</div><img src='images/publications/prune_then_plan.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Prune-Then-Plan: Step-Level Calibration for Stable Frontier Exploration in Embodied Question Answering](https://arxiv.org/abs/2511.19768)
@@ -36,7 +41,7 @@ I am a computer science researcher at The University of North Carolina at Chapel
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/publications/VIN_NBV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [VIN-NBV: A View Introspection Network for Next-Best-View Selection](https://arxiv.org/abs/2505.06219)
@@ -47,7 +52,16 @@ I am a computer science researcher at The University of North Carolina at Chapel
 </div>
 </div>
 
-- [Building Secure and Engaging Video Communication by Using Monitor Illumination](https://openaccess.thecvf.com/content/CVPR2024W/WMF/html/Choi_Building_Secure_and_Engaging_Video_Communication_by_Using_Monitor_Illumination_CVPRW_2024_paper.html), Jun Myeong Choi, Johnathan Chi-Ho Leung, **Noah Frahm**, Max Christman, Gedas Bertasius, Roni Sengupta, **CVPR 2024 Workshop on Multimedia Forensics**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 Workshop on Multimedia Forensics</div><img src='images/publications/deepfake.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Building Secure and Engaging Video Communication by Using Monitor Illumination](https://openaccess.thecvf.com/content/CVPR2024W/WMF/html/Choi_Building_Secure_and_Engaging_Video_Communication_by_Using_Monitor_Illumination_CVPRW_2024_paper.html)
+
+Jun Myeong Choi, Johnathan Chi-Ho Leung, **Noah Frahm**, Max Christman, Gedas Bertasius, Roni Sengupta
+
+- We use light reflected from the monitor to detect if a person in a video call is real/live (on) or deepfake (off).
+</div>
+</div>
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -62,5 +76,7 @@ I am a computer science researcher at The University of North Carolina at Chapel
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+# 💻 Internships
+- *Summer 2024*, Applied Scientist, EveryPoint
+- *Summer 2023*, Software Engineering Intern, Capital One
+- *Summer 2022*, Software Engineering Intern, Capital One
