@@ -20,13 +20,14 @@ redirect_from:
 I am a computer science researcher at The University of North Carolina at Chapel Hill. My research focuses on **embodied agentic systems** and **computer vision**, with a particular emphasis on building intelligent agents that can perceive, reason about, and interact with the physical world. I am interested in how large vision-language models can be leveraged to enable embodied AI agents to perform complex tasks in dynamic environments.
 
 # 🔥 News
-- *2026.03*: &nbsp;🎉🎉 Prune-Then-Plan accepted to CVPR 2026 Findings!
+- *2026.03*: &nbsp;📄 Prune-Then-Plan accepted to CVPR 2026 Findings!
+- *2025.05*: &nbsp;📄 Released VIN-NBV on arXiv
 - *2024.05*: &nbsp;🎉🎉 Accepted to the PhD program in Computer Science at UNC Chapel Hill!
-- *2024.05*: &nbsp;🎉🎉 Completed Masters of Science in Computer Science at UNC
-- *2025.05*: &nbsp;🎉🎉 Released VIN-NBV on arXiv
-- *2024.04*: &nbsp;🎉🎉 Monitor Illumination paper accepted to the CVPR 2024 Workshop on Multimedia Forensics!
-- *2023.01*: &nbsp;🎉🎉 Started Masters of Science in Computer Science at UNC!
-- *2023.12*: &nbsp;🎉🎉 Completed Bachelor of Science in Computer Science at UNC
+- *2024.05*: &nbsp;🎓 Completed Masters of Science in Computer Science at UNC
+- *2024.04*: &nbsp;📄 Monitor Illumination paper accepted to the CVPR 2024 Workshop on Multimedia Forensics!
+- *2023.01*: &nbsp;📚 Started Masters of Science in Computer Science at UNC
+- *2023.12*: &nbsp;🎓 Completed Bachelor of Science in Computer Science at UNC
+
 
 # 📝 Publications 
 
@@ -77,6 +78,6 @@ Jun Myeong Choi, Johnathan Chi-Ho Leung, **Noah Frahm**, Max Christman, Gedas Be
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *Summer 2024*, Applied Scientist, EveryPoint
+- *Summer 2025*, Applied Scientist, EveryPoint
+- *Summer 2024*, Software Engineering Intern, Capital One
 - *Summer 2023*, Software Engineering Intern, Capital One
-- *Summer 2022*, Software Engineering Intern, Capital One
