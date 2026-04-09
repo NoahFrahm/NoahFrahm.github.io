@@ -42,7 +42,7 @@ I am a computer science researcher at The University of North Carolina at Chapel
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/publications/VIN_NBV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/publications/VIN_NBV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [VIN-NBV: A View Introspection Network for Next-Best-View Selection](https://arxiv.org/abs/2505.06219)
