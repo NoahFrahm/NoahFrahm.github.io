@@ -5,27 +5,46 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# Site Settings
-title                    : "Noah Frahm Homepage"
-description              : "Building more capable and adaptable embodied agents. "
+# Site Settings / SEO
+# Everything in <head> (title, description, Open Graph, Twitter card, JSON-LD) is
+# built from these keys and the `author` block by _includes/seo.html.
+# `title`, `description`, `url` and `baseurl` must never be blank: on GitHub Pages,
+# jekyll-github-metadata silently substitutes the repo name, the repo "About" text
+# and a computed URL for blank values.
+title                    : "Noah Frahm"
+tagline                  : "PhD Student, Computer Science, UNC Chapel Hill"   # <title> suffix
+description              : "Building more capable and adaptable embodied agents."  # sidebar blurb; fallback meta description
+seo_description          : "Noah Frahm is a computer science PhD student in the SPIN Lab at UNC Chapel Hill, advised by Roni Sengupta, working on embodied AI agents and computer vision."
+url                      : "https://noahfrahm.github.io"   # no trailing slash
+baseurl                  : ""
 repository               : "NoahFrahm/NoahFrahm.github.io"
-google_scholar_stats_use_cdn : False
+locale                   : "en_US"
+date_created             : "2026-03-24"   # first commit of this site (JSON-LD dateCreated); keep quoted
 
-# google analytics
+# google analytics (blank = no analytics code is emitted)
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
-# SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+# SEO Related (blank = verification tag not emitted)
+google_site_verification :  # HTML-tag token from https://search.google.com/search-console/about
+bing_site_verification   :  # token from https://www.bing.com/webmasters/about
 
 # Site Author
 author:
   name             : "Noah Frahm"
-  avatar           : "images/headshot_smaller.png"
-  bio              : "The University of North Carolina"
+  first_name       : "Noah"
+  last_name        : "Frahm"
+  job_title        : "PhD Student"
+  affiliation      : "University of North Carolina at Chapel Hill"
+  affiliation_url  : "https://cs.unc.edu/"
+  lab              : "Spatial & Physical Intelligence (SPIN) Lab"
+  lab_url          : "https://www.cs.unc.edu/~ronisen/"
+  knows_about      : ["Embodied AI", "Embodied question answering", "Vision-language models", "Computer vision", "3D reconstruction", "Next-best-view planning"]
+  avatar           : "/images/headshot_smaller.png"   # root-relative; also used as og:image / twitter:image
+  avatar_width     : 1078
+  avatar_height    : 1106
+  bio              : "PhD Student, Computer Science"
   location         : "Chapel Hill, NC"
-  employer         :
+  employer         : "UNC Chapel Hill"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5Qvw2yUAAAAJ&hl=en"
   email            : "nofrahm@cs.unc.edu"
@@ -37,21 +56,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : NoahFrahm # e.g., "github username"
+  github           : "NoahFrahm"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "noah-frahm-4118161b2" # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  linkedin         : "noah-frahm-4118161b2"
+  dblp             : "https://dblp.org/pid/386/8990.html"
+  orcid            : # e.g., "https://orcid.org/xxxx" (adds a sidebar link and a JSON-LD sameAs entry)
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : # handle without @ (adds twitter:site/creator tags and a sameAs entry)
   vine             :
   weibo            :
   xing             :
@@ -77,10 +96,12 @@ exclude:
   - CHANGELOG
   - Capfile
   - Gemfile
+  - Gemfile.lock
   - Gruntfile.js
   - LICENSE
-  - README
+  - README.md
   - Rakefile
+  - run_server.sh
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
@@ -136,28 +157,10 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
-# Plugins
+# Plugins (GitHub Pages only loads plugins on its whitelist; both of these are)
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
   - jekyll-redirect-from
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-
-
-# HTML Compression
-# - http://jch.penibelst.de/
-compress_html:
-  clippings: all
-  ignore:
-    envs: development

@@ -1,32 +1,24 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Noah Frahm"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<!-- {% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
-
 <span class='anchor' id='about-me'></span>
 
-I am a computer science researcher at The University of North Carolina at Chapel Hill. My research focuses on **embodied agentic systems** and **computer vision**, with a particular emphasis on building intelligent agents that can perceive, reason about, and interact with the physical world. I am interested in how large vision-language models can be leveraged to enable embodied AI agents to perform complex tasks in dynamic environments.
+I am **Noah Frahm**, a computer science PhD student in the [Spatial & Physical Intelligence (SPIN) Lab](https://www.cs.unc.edu/~ronisen/) at The University of North Carolina at Chapel Hill, advised by Roni Sengupta. My research focuses on **embodied agentic systems** and **computer vision**, with a particular emphasis on building intelligent agents that can perceive, reason about, and interact with the physical world. I am interested in how large vision-language models can be leveraged to enable embodied AI agents to perform complex tasks in dynamic environments.
 
 # 🔥 News
 - *2026.03*: &nbsp;📄 Prune-Then-Plan accepted to CVPR 2026 Findings!
 - *2025.05*: &nbsp;📄 Released VIN-NBV on arXiv
 - *2024.05*: &nbsp;🎉 Accepted to the PhD program in Computer Science at UNC Chapel Hill!
-- *2024.05*: &nbsp;🎓 Completed Masters of Science in Computer Science at UNC
+- *2024.05*: &nbsp;🎓 Completed Master of Science in Computer Science at UNC
 - *2024.04*: &nbsp;📄 Monitor Illumination paper accepted to the CVPR 2024 Workshop on Multimedia Forensics!
-- *2023.01*: &nbsp;📚 Started Masters of Science in Computer Science at UNC
 - *2023.12*: &nbsp;🎓 Completed Bachelor of Science in Computer Science at UNC
+- *2023.01*: &nbsp;📚 Started Master of Science in Computer Science at UNC
 
 
 # 📝 Publications 
@@ -69,9 +61,9 @@ Jun Myeong Choi, Johnathan Chi-Ho Leung, **Noah Frahm**, Max Christman, Gedas Be
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Education
-- *2024.05 - (present)*, Doctor of philosphy Computer Science, The University of North Carolina
-- *2023.01 - 2024.05*, Masters of Science Computer Science, The University of North Carolina
-- *2020.08 - 2023.12*, Bachelor of Science Computer science, The University of North Carolina
+- *2024.05 - (present)*, Doctor of Philosophy in Computer Science, The University of North Carolina
+- *2023.01 - 2024.05*, Master of Science in Computer Science, The University of North Carolina
+- *2020.08 - 2023.12*, Bachelor of Science in Computer Science, The University of North Carolina
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
