@@ -23,7 +23,7 @@ I am **Noah Frahm**, a computer science PhD student in the [Spatial & Physical I
 
 ## 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 Findings</div><img src='images/publications/prune_then_plan.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 Findings</div><img src="/images/publications/prune_then_plan.webp" alt="Overview of Prune-Then-Plan: candidate frontiers on an apartment map are pruned before a coverage-based planner picks the next step, so the agent finds the yellow chair where the 3D-Mem baseline fails" width="800" height="283" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Prune-Then-Plan: Step-Level Calibration for Stable Frontier Exploration in Embodied Question Answering](https://arxiv.org/abs/2511.19768)
@@ -34,7 +34,7 @@ I am **Noah Frahm**, a computer science PhD student in the [Spatial & Physical I
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/publications/VIN_NBV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src="/images/publications/VIN_NBV.webp" alt="Overview of VIN-NBV: candidate camera views around a house model, and reconstruction progress over four steps for coverage-based next-best-view selection versus VIN-NBV" width="800" height="273" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [VIN-NBV: A View Introspection Network for Next-Best-View Selection](https://arxiv.org/abs/2505.06219)
@@ -45,7 +45,7 @@ I am **Noah Frahm**, a computer science PhD student in the [Spatial & Physical I
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 Workshop on Multimedia Forensics</div><img src='images/publications/deepfake.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 Workshop on Multimedia Forensics</div><img src="/images/publications/deepfake.webp" alt="Three video-call participants lit by their monitors, labelled on or off to show whether each feed is live or a deepfake, above a shared slide" width="800" height="529" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Building Secure and Engaging Video Communication by Using Monitor Illumination](https://openaccess.thecvf.com/content/CVPR2024W/WMF/html/Choi_Building_Secure_and_Engaging_Video_Communication_by_Using_Monitor_Illumination_CVPRW_2024_paper.html)

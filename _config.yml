@@ -39,9 +39,9 @@ author:
   lab              : "Spatial & Physical Intelligence (SPIN) Lab"
   lab_url          : "https://www.cs.unc.edu/~ronisen/"
   knows_about      : ["Embodied AI", "Embodied question answering", "Vision-language models", "Computer vision", "3D reconstruction", "Next-best-view planning"]
-  avatar           : "/images/headshot_smaller.png"   # root-relative; also used as og:image / twitter:image
-  avatar_width     : 1078
-  avatar_height    : 1106
+  avatar           : "/images/headshot.jpg"   # root-relative; also used as og:image / twitter:image
+  avatar_width     : 600
+  avatar_height    : 616
   bio              : "PhD Student, Computer Science"
   location         : "Chapel Hill, NC"
   employer         : "UNC Chapel Hill"
