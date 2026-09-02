@@ -11,7 +11,7 @@ redirect_from:
 
 I am **Noah Frahm**, a computer science PhD student in the [Spatial & Physical Intelligence (SPIN) Lab](https://www.cs.unc.edu/~ronisen/) at The University of North Carolina at Chapel Hill, advised by Roni Sengupta. My research focuses on **embodied agentic systems** and **computer vision**, with a particular emphasis on building intelligent agents that can perceive, reason about, and interact with the physical world. I am interested in how large vision-language models can be leveraged to enable embodied AI agents to perform complex tasks in dynamic environments.
 
-# 🔥 News
+## 🔥 News
 - *2026.03*: &nbsp;📄 Prune-Then-Plan accepted to CVPR 2026 Findings!
 - *2025.05*: &nbsp;📄 Released VIN-NBV on arXiv
 - *2024.05*: &nbsp;🎉 Accepted to the PhD program in Computer Science at UNC Chapel Hill!
@@ -21,7 +21,7 @@ I am **Noah Frahm**, a computer science PhD student in the [Spatial & Physical I
 - *2023.01*: &nbsp;📚 Started Master of Science in Computer Science at UNC
 
 
-# 📝 Publications 
+## 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 Findings</div><img src='images/publications/prune_then_plan.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -56,20 +56,20 @@ Jun Myeong Choi, Johnathan Chi-Ho Leung, **Noah Frahm**, Max Christman, Gedas Be
 </div>
 </div>
 
-<!-- # 🎖 Honors and Awards
+<!-- ## 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📖 Education
+## 📖 Education
 - *2024.05 - (present)*, Doctor of Philosophy in Computer Science, The University of North Carolina
 - *2023.01 - 2024.05*, Master of Science in Computer Science, The University of North Carolina
 - *2020.08 - 2023.12*, Bachelor of Science in Computer Science, The University of North Carolina
 
-<!-- # 💬 Invited Talks
+<!-- ## 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships/work
+## 💻 Internships/work
 - *Summer 2025*, Applied Scientist, EveryPoint
 - *Summer 2024*, Software Engineering Intern, Capital One
 - *Summer 2023*, Software Engineering Intern, Capital One
