@@ -1,37 +1,29 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Noah Frahm"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<!-- {% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
-
 <span class='anchor' id='about-me'></span>
 
-I am a computer science researcher at The University of North Carolina at Chapel Hill. My research focuses on **embodied agentic systems** and **computer vision**, with a particular emphasis on building intelligent agents that can perceive, reason about, and interact with the physical world. I am interested in how large vision-language models can be leveraged to enable embodied AI agents to perform complex tasks in dynamic environments.
+I am **Noah Frahm**, a computer science PhD student in the [Spatial & Physical Intelligence (SPIN) Lab](https://www.cs.unc.edu/~ronisen/) at The University of North Carolina at Chapel Hill, advised by Roni Sengupta. My research focuses on **embodied agentic systems** and **computer vision**, with a particular emphasis on building intelligent agents that can perceive, reason about, and interact with the physical world. I am interested in how large vision-language models can be leveraged to enable embodied AI agents to perform complex tasks in dynamic environments.
 
-# 🔥 News
+## 🔥 News
 - *2026.03*: &nbsp;📄 Prune-Then-Plan accepted to CVPR 2026 Findings!
 - *2025.05*: &nbsp;📄 Released VIN-NBV on arXiv
 - *2024.05*: &nbsp;🎉 Accepted to the PhD program in Computer Science at UNC Chapel Hill!
-- *2024.05*: &nbsp;🎓 Completed Masters of Science in Computer Science at UNC
+- *2024.05*: &nbsp;🎓 Completed Master of Science in Computer Science at UNC
 - *2024.04*: &nbsp;📄 Monitor Illumination paper accepted to the CVPR 2024 Workshop on Multimedia Forensics!
-- *2023.01*: &nbsp;📚 Started Masters of Science in Computer Science at UNC
 - *2023.12*: &nbsp;🎓 Completed Bachelor of Science in Computer Science at UNC
+- *2023.01*: &nbsp;📚 Started Master of Science in Computer Science at UNC
 
 
-# 📝 Publications 
+## 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 Findings</div><img src='images/publications/prune_then_plan.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 Findings</div><img src="/images/publications/prune_then_plan.webp" alt="Overview of Prune-Then-Plan: candidate frontiers on an apartment map are pruned before a coverage-based planner picks the next step, so the agent finds the yellow chair where the 3D-Mem baseline fails" width="800" height="283" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Prune-Then-Plan: Step-Level Calibration for Stable Frontier Exploration in Embodied Question Answering](https://arxiv.org/abs/2511.19768)
@@ -42,7 +34,7 @@ I am a computer science researcher at The University of North Carolina at Chapel
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/publications/VIN_NBV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src="/images/publications/VIN_NBV.webp" alt="Overview of VIN-NBV: candidate camera views around a house model, and reconstruction progress over four steps for coverage-based next-best-view selection versus VIN-NBV" width="800" height="273" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [VIN-NBV: A View Introspection Network for Next-Best-View Selection](https://arxiv.org/abs/2505.06219)
@@ -53,7 +45,7 @@ I am a computer science researcher at The University of North Carolina at Chapel
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 Workshop on Multimedia Forensics</div><img src='images/publications/deepfake.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 Workshop on Multimedia Forensics</div><img src="/images/publications/deepfake.webp" alt="Three video-call participants lit by their monitors, labelled on or off to show whether each feed is live or a deepfake, above a shared slide" width="800" height="529" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Building Secure and Engaging Video Communication by Using Monitor Illumination](https://openaccess.thecvf.com/content/CVPR2024W/WMF/html/Choi_Building_Secure_and_Engaging_Video_Communication_by_Using_Monitor_Illumination_CVPRW_2024_paper.html)
@@ -64,20 +56,20 @@ Jun Myeong Choi, Johnathan Chi-Ho Leung, **Noah Frahm**, Max Christman, Gedas Be
 </div>
 </div>
 
-<!-- # 🎖 Honors and Awards
+<!-- ## 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📖 Education
-- *2024.05 - (present)*, Doctor of philosphy Computer Science, The University of North Carolina
-- *2023.01 - 2024.05*, Masters of Science Computer Science, The University of North Carolina
-- *2020.08 - 2023.12*, Bachelor of Science Computer science, The University of North Carolina
+## 📖 Education
+- *2024.05 - (present)*, Doctor of Philosophy in Computer Science, The University of North Carolina
+- *2023.01 - 2024.05*, Master of Science in Computer Science, The University of North Carolina
+- *2020.08 - 2023.12*, Bachelor of Science in Computer Science, The University of North Carolina
 
-<!-- # 💬 Invited Talks
+<!-- ## 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships/work
+## 💻 Internships/work
 - *Summer 2025*, Applied Scientist, EveryPoint
 - *Summer 2024*, Software Engineering Intern, Capital One
 - *Summer 2023*, Software Engineering Intern, Capital One

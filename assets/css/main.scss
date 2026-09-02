@@ -56,6 +56,8 @@
         width: 100%;
         order: 2;
         img {
+            width: 100%;
+            height: auto;
             max-width: 400px;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
@@ -88,7 +90,7 @@
 }
 
 $scroll_offset : 2em;
-h1:before, .anchor:before { 
+.page__content h2:before, .anchor:before { 
     content: ''; 
     display: block; 
     position: relative; 

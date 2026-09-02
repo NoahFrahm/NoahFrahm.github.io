@@ -60,8 +60,11 @@
         margin-top: -10em;
     }
   }
-  h1 {
+  // Section headings are h2 (the page's only h1 is the author name in the sidebar);
+  // font-size mirrors the base h1 size so nothing changes visually.
+  h2 {
     margin-top: 1em;
+    font-size: $type-size-3;
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
   }
